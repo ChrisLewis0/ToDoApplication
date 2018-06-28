@@ -4,7 +4,7 @@ To Do Application is an android app that allows building a todo list and basic t
 
 Submitted by: Chris Lewis
 
-Time spent: **X** hours spent in total
+Time spent: 2.5 hours spent in total
 
 ## User Stories
 
